@@ -1,0 +1,4 @@
+search,name,rotation_period,orbital_period,diameter,climate,gravity,terrain,surface_water,population,pass/fail
+planets/1/,Tatooine,23,304,10465,arid,1 standard,desert,1,200000,pass
+planets/2/,Alderaan,24,364,12500,temperate,1 standard,"grasslands, mountains",40,2000000000,pass
+planets/3/,Yavin IV,24,4818,10200,"temperate, tropical",1 standard,"jungle, rainforests",8,1000,pass

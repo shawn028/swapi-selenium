@@ -1,0 +1,4 @@
+search,name,classification,designation,average_height,skin_colors,hair_colors,eye_colors,average_lifespan,pass/fail
+species/1/,Human,mammal,sentient,180,"caucasian, black, asian, hispanic","blonde, brown, black, red","brown, blue, green, hazel, grey, amber",120,fail
+species/2/,Droid,artificial,sentient,n/a,n/a,n/a,n/a,indefinite,fail
+species/3/,Wookie,mammal,sentient,210,gray,"black, brown","blue, green, yellow, brown, golden, red",400,fail

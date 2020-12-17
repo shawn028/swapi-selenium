@@ -1,0 +1,6 @@
+search,name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,pass/fail
+
+people/1/,Luke Skywalker,172,77,blond,fair,blue,19BBY,male,pass
+people/2/,C-3PO,167,75,n/a,gold,yellow,112BBY,n/a,pass
+people/3/,R2-D2,96,32,n/a,"white, blue",red,33BBY,n/a,pass
+people/4/,Darth Vader,202,136,none,white,yellow,41.9BBY,male,pass

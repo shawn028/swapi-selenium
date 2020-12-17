@@ -1,0 +1,385 @@
+[15:40:17:362] [INFO] - commons.Log.info(Log.java:21) - The search URL is:https://swapi.dev/
+[15:40:19:875] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[15:40:20:172] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[15:40:20:253] [INFO] - commons.Log.info(Log.java:21) - input people/1/
+[15:40:20:379] [INFO] - commons.Log.info(Log.java:21) - click request button
+[15:40:22:401] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[15:40:22:440] [INFO] - commons.Log.info(Log.java:21) - assert name
+[15:40:22:440] [INFO] - commons.Log.info(Log.java:21) - assert height
+[15:40:22:440] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[15:40:22:441] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[15:40:22:441] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[15:40:22:441] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[15:40:22:442] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[15:40:22:442] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[15:40:22:444] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[15:40:22:445] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/1/ pass.
+[15:40:22:503] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[15:40:22:574] [INFO] - commons.Log.info(Log.java:21) - input people/2/
+[15:40:22:601] [INFO] - commons.Log.info(Log.java:21) - click request button
+[15:40:24:613] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[15:40:24:614] [INFO] - commons.Log.info(Log.java:21) - assert name
+[15:40:24:614] [INFO] - commons.Log.info(Log.java:21) - assert height
+[15:40:24:614] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[15:40:24:614] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[15:40:24:614] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[15:40:24:615] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[15:40:24:615] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[15:40:24:615] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[15:40:24:618] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[15:40:24:618] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/2/ pass.
+[15:40:24:673] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[15:40:24:716] [INFO] - commons.Log.info(Log.java:21) - input people/3/
+[15:40:24:743] [INFO] - commons.Log.info(Log.java:21) - click request button
+[15:40:26:752] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[15:40:26:753] [INFO] - commons.Log.info(Log.java:21) - assert name
+[15:40:26:753] [INFO] - commons.Log.info(Log.java:21) - assert height
+[15:40:26:753] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[15:40:26:753] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[15:40:26:753] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[15:40:26:754] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[15:40:26:754] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[15:40:26:754] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[15:40:26:755] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[15:40:26:756] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/3/ pass.
+[15:40:26:825] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[15:40:26:873] [INFO] - commons.Log.info(Log.java:21) - input people/4/
+[15:40:26:902] [INFO] - commons.Log.info(Log.java:21) - click request button
+[15:40:28:913] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[15:40:28:913] [INFO] - commons.Log.info(Log.java:21) - assert name
+[15:40:28:913] [INFO] - commons.Log.info(Log.java:21) - assert height
+[15:40:28:913] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[15:40:28:914] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[15:40:28:914] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[15:40:28:914] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[15:40:28:914] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[15:40:28:914] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[15:40:28:915] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[15:40:28:916] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/4/ pass.
+[15:40:29:035] [INFO] - commons.Log.info(Log.java:21) - close browser
+[16:00:04:962] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[16:00:05:193] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[16:00:05:259] [INFO] - commons.Log.info(Log.java:21) - input people/1/
+[16:00:05:337] [INFO] - commons.Log.info(Log.java:21) - click request button
+[16:00:07:354] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[16:00:07:395] [INFO] - commons.Log.info(Log.java:21) - assert name
+[16:00:07:395] [INFO] - commons.Log.info(Log.java:21) - assert height
+[16:00:07:395] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[16:00:07:395] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[16:00:07:396] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[16:00:07:396] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[16:00:07:396] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[16:00:07:396] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[16:00:07:400] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[16:00:07:400] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/1/ pass.
+[16:00:07:460] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[16:00:07:530] [INFO] - commons.Log.info(Log.java:21) - input people/2/
+[16:00:07:559] [INFO] - commons.Log.info(Log.java:21) - click request button
+[16:00:09:569] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[16:00:09:570] [INFO] - commons.Log.info(Log.java:21) - assert name
+[16:00:09:570] [INFO] - commons.Log.info(Log.java:21) - assert height
+[16:00:09:570] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[16:00:09:570] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[16:00:09:571] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[16:00:09:571] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[16:00:09:571] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[16:00:09:571] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[16:00:09:572] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[16:00:09:573] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/2/ pass.
+[16:00:09:637] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[16:00:09:701] [INFO] - commons.Log.info(Log.java:21) - input people/3/
+[16:00:09:732] [INFO] - commons.Log.info(Log.java:21) - click request button
+[16:00:11:742] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[16:00:11:743] [INFO] - commons.Log.info(Log.java:21) - assert name
+[16:00:11:743] [INFO] - commons.Log.info(Log.java:21) - assert height
+[16:00:11:743] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[16:00:11:743] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[16:00:11:744] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[16:00:11:744] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[16:00:11:744] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[16:00:11:744] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[16:00:11:746] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[16:00:11:746] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/3/ pass.
+[16:00:11:811] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[16:00:11:858] [INFO] - commons.Log.info(Log.java:21) - input people/4/
+[16:00:11:888] [INFO] - commons.Log.info(Log.java:21) - click request button
+[16:00:13:898] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[16:00:13:899] [INFO] - commons.Log.info(Log.java:21) - assert name
+[16:00:13:899] [INFO] - commons.Log.info(Log.java:21) - assert height
+[16:00:13:899] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[16:00:13:899] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[16:00:13:899] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[16:00:13:900] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[16:00:13:900] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[16:00:13:900] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[16:00:13:901] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[16:00:13:901] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/4/ pass.
+[16:00:14:044] [INFO] - commons.Log.info(Log.java:21) - close browser
+[17:31:29:599] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[17:31:29:980] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:31:30:071] [INFO] - commons.Log.info(Log.java:21) - input planets/1/
+[17:31:30:170] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:31:32:187] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:31:32:226] [INFO] - commons.Log.info(Log.java:21) - assert name
+[17:31:32:226] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[17:31:32:227] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[17:31:32:227] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[17:31:32:227] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[17:31:32:227] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[17:31:32:227] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[17:31:32:228] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[17:31:32:228] [INFO] - commons.Log.info(Log.java:21) - assert population
+[17:31:32:230] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:31:32:230] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/1/ pass.
+[17:31:32:333] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:31:32:392] [INFO] - commons.Log.info(Log.java:21) - input planets/2/
+[17:31:32:424] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:31:34:435] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert name
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[17:31:34:436] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[17:31:34:437] [INFO] - commons.Log.info(Log.java:21) - assert population
+[17:31:34:438] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:31:34:439] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/2/ pass.
+[17:31:34:497] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:31:34:550] [INFO] - commons.Log.info(Log.java:21) - input planets/3/
+[17:31:34:624] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:31:36:633] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert name
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[17:31:36:634] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[17:31:36:635] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[17:31:36:635] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[17:31:36:635] [INFO] - commons.Log.info(Log.java:21) - assert population
+[17:31:36:637] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:31:36:637] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/3/ pass.
+[17:31:36:811] [INFO] - commons.Log.info(Log.java:21) - close browser
+[17:31:58:662] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[17:31:59:052] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:31:59:204] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[17:31:59:258] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:32:01:274] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:32:01:310] [INFO] - commons.Log.info(Log.java:21) - assert name
+[17:32:01:314] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:32:01:314] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/2/ fail.
+[17:32:01:384] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:32:01:481] [INFO] - commons.Log.info(Log.java:21) - input people/3/
+[17:32:01:519] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:32:03:531] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:32:03:534] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:32:03:535] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/3/ fail.
+[17:32:03:600] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[17:32:03:688] [INFO] - commons.Log.info(Log.java:21) - input people/5/
+[17:32:03:718] [INFO] - commons.Log.info(Log.java:21) - click request button
+[17:32:05:730] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[17:32:05:733] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[17:32:05:733] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/5/ fail.
+[17:32:05:872] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[17:32:05:888] [INFO] - commons.Log.info(Log.java:21) - close browser
+[17:39:20:404] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[17:39:20:657] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[17:39:20:671] [INFO] - commons.Log.info(Log.java:21) - close browser
+[21:36:14:851] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[21:36:51:230] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[21:36:51:444] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[21:36:51:563] [INFO] - commons.Log.info(Log.java:21) - click request button
+[21:37:18:295] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[21:39:13:898] [INFO] - commons.Log.info(Log.java:21) - assert name
+[21:39:39:730] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[21:41:15:231] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/2/ fail.
+[21:43:23:189] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[21:43:23:361] [INFO] - commons.Log.info(Log.java:21) - input starships/3/
+[21:43:23:498] [INFO] - commons.Log.info(Log.java:21) - click request button
+[21:43:40:197] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[21:43:50:048] [INFO] - commons.Log.info(Log.java:21) - assert name
+[21:44:04:825] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[21:44:15:877] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/3/ fail.
+[21:44:46:225] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[21:44:46:434] [INFO] - commons.Log.info(Log.java:21) - input starships/5/
+[21:44:46:566] [INFO] - commons.Log.info(Log.java:21) - click request button
+[21:49:25:392] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[21:50:15:486] [INFO] - commons.Log.info(Log.java:21) - assert name
+[21:51:25:711] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[21:52:46:386] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/5/ fail.
+[21:53:32:838] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[22:16:27:535] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:16:27:769] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:16:27:895] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[22:16:27:992] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:16:30:031] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:16:30:117] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:16:30:125] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:16:30:126] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/2/ fail.
+[22:16:30:226] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:16:30:336] [INFO] - commons.Log.info(Log.java:21) - input starships/3/
+[22:16:30:369] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:16:32:383] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:16:32:383] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:16:32:386] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:16:32:386] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/3/ fail.
+[22:16:32:458] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:16:32:517] [INFO] - commons.Log.info(Log.java:21) - input starships/5/
+[22:16:32:547] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:16:34:557] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:16:34:558] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:16:34:559] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:16:34:560] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/5/ fail.
+[22:16:34:636] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[22:16:34:647] [INFO] - commons.Log.info(Log.java:21) - close browser
+[22:20:51:460] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:20:51:918] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[22:22:27:110] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:22:27:426] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:22:27:530] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[22:22:27:574] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:22:29:590] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:22:29:629] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:22:29:633] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:22:29:634] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/2/ fail.
+[22:22:29:704] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:22:29:764] [INFO] - commons.Log.info(Log.java:21) - input starships/3/
+[22:22:29:792] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:22:31:803] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:22:31:804] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:22:31:809] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:22:31:809] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/3/ fail.
+[22:22:31:895] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:22:31:948] [INFO] - commons.Log.info(Log.java:21) - input starships/5/
+[22:22:31:975] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:22:33:984] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:22:33:985] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:22:33:986] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:22:33:987] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test starships/5/ fail.
+[22:22:34:070] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[22:22:34:079] [INFO] - commons.Log.info(Log.java:21) - close browser
+[22:36:48:641] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:36:48:951] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:36:49:055] [INFO] - commons.Log.info(Log.java:21) - input people/1/
+[22:36:49:127] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:36:51:149] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:36:51:215] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:36:51:216] [INFO] - commons.Log.info(Log.java:21) - assert height
+[22:36:51:216] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[22:36:51:216] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[22:36:51:217] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[22:36:51:217] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[22:36:51:217] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[22:36:51:217] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[22:36:51:222] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:36:51:222] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/1/ pass.
+[22:36:51:304] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:36:51:390] [INFO] - commons.Log.info(Log.java:21) - input people/2/
+[22:36:51:483] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:36:53:512] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:36:53:513] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:36:53:513] [INFO] - commons.Log.info(Log.java:21) - assert height
+[22:36:53:513] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[22:36:53:513] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[22:36:53:514] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[22:36:53:514] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[22:36:53:514] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[22:36:53:514] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[22:36:53:516] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:36:53:517] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/2/ pass.
+[22:36:53:585] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:36:53:650] [INFO] - commons.Log.info(Log.java:21) - input people/3/
+[22:36:53:685] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:36:55:703] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:36:55:704] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:36:55:704] [INFO] - commons.Log.info(Log.java:21) - assert height
+[22:36:55:704] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[22:36:55:704] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[22:36:55:705] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[22:36:55:705] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[22:36:55:705] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[22:36:55:705] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[22:36:55:707] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:36:55:707] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/3/ pass.
+[22:36:55:824] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:36:55:907] [INFO] - commons.Log.info(Log.java:21) - input people/4/
+[22:36:55:968] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:36:57:978] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:36:57:978] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:36:57:978] [INFO] - commons.Log.info(Log.java:21) - assert height
+[22:36:57:978] [INFO] - commons.Log.info(Log.java:21) - assert mass
+[22:36:57:979] [INFO] - commons.Log.info(Log.java:21) - assert hair_color
+[22:36:57:979] [INFO] - commons.Log.info(Log.java:21) - assert skin_color
+[22:36:57:979] [INFO] - commons.Log.info(Log.java:21) - assert eye_color
+[22:36:57:979] [INFO] - commons.Log.info(Log.java:21) - assert birth_year
+[22:36:57:979] [INFO] - commons.Log.info(Log.java:21) - assert gender
+[22:36:57:980] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:36:57:980] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test people/4/ pass.
+[22:36:58:063] [INFO] - commons.Log.info(Log.java:21) - close browser
+[22:37:06:485] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:37:06:663] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:37:06:783] [INFO] - commons.Log.info(Log.java:21) - input planets/1/
+[22:37:06:861] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:37:08:877] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:37:08:880] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:37:08:880] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[22:37:08:880] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[22:37:08:881] [INFO] - commons.Log.info(Log.java:21) - assert population
+[22:37:08:883] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:37:08:884] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/1/ pass.
+[22:37:08:944] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:37:09:004] [INFO] - commons.Log.info(Log.java:21) - input planets/2/
+[22:37:09:036] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[22:37:11:046] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[22:37:11:047] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[22:37:11:047] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[22:37:11:047] [INFO] - commons.Log.info(Log.java:21) - assert population
+[22:37:11:048] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:37:11:048] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/2/ pass.
+[22:37:11:095] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[22:37:11:139] [INFO] - commons.Log.info(Log.java:21) - input planets/3/
+[22:37:11:160] [INFO] - commons.Log.info(Log.java:21) - click request button
+[22:37:13:170] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[22:37:13:170] [INFO] - commons.Log.info(Log.java:21) - assert name
+[22:37:13:171] [INFO] - commons.Log.info(Log.java:21) - assert rotation_period
+[22:37:13:171] [INFO] - commons.Log.info(Log.java:21) - assert orbital_period
+[22:37:13:171] [INFO] - commons.Log.info(Log.java:21) - assert diameter
+[22:37:13:171] [INFO] - commons.Log.info(Log.java:21) - assert climate
+[22:37:13:171] [INFO] - commons.Log.info(Log.java:21) - assert gravity
+[22:37:13:172] [INFO] - commons.Log.info(Log.java:21) - assert terrain
+[22:37:13:172] [INFO] - commons.Log.info(Log.java:21) - assert surface_water
+[22:37:13:172] [INFO] - commons.Log.info(Log.java:21) - assert population
+[22:37:13:174] [INFO] - commons.Log.info(Log.java:21) - collect test result,start comparison.
+[22:37:13:174] [INFO] - commons.Log.info(Log.java:21) - Comparison ends,test planets/3/ pass.
+[22:37:13:324] [INFO] - commons.Log.info(Log.java:21) - close browser
+[22:37:21:810] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[22:37:21:964] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[22:37:21:978] [INFO] - commons.Log.info(Log.java:21) - close browser
+[23:07:26:731] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[23:07:26:959] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[23:13:13:989] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[23:13:14:180] [INFO] - commons.Log.info(Log.java:21) - browser closed.
+[23:14:42:816] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[23:14:43:117] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[23:14:43:212] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[23:14:43:265] [INFO] - commons.Log.info(Log.java:21) - click request button
+[23:14:45:315] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[23:25:03:071] [INFO] - commons.Log.info(Log.java:21) - open https://swapi.dev/
+[23:25:03:324] [INFO] - commons.Log.info(Log.java:21) - clear searchInput area.
+[23:25:03:436] [INFO] - commons.Log.info(Log.java:21) - input starships/2/
+[23:25:03:519] [INFO] - commons.Log.info(Log.java:21) - click request button
+[23:25:05:553] [INFO] - commons.Log.info(Log.java:21) - get text from response body.
+[23:27:00:016] [INFO] - commons.Log.info(Log.java:21) - assert name

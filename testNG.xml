@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!-- ................................................................. -->
+<!--  Testng.xml file with  ReportNG integration                 -->
+<!-- ................................................................. -->
+<suite name="test-suite">
+
+    <test name="test1">
+        <classes>
+            <class name="autotest.TestPeople"/>
+            <class name="autotest.TestPlanets"/>
+            <class name="autotest.TestStarships"/>
+            <class name="autotest.TestSpecies"/>
+            <class name="autotest.TestVehicles"/>
+        </classes>
+
+    </test>
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test1"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.691">
+  <properties />
+  
+  
+            <testcase name="testSpecie" time="2.180" classname="autotest.TestSpecies" />
+                <testcase name="testSpecie" time="2.323" classname="autotest.TestSpecies" />
+                <testcase name="testSpecie" time="2.188" classname="autotest.TestSpecies" />
+      
+</testsuite>

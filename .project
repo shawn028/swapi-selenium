@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AutoTest</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>logs</name>
+			<type>2</type>
+			<location>C:/Selenium Projects/AutoTest/AutoTest/logs</location>
+		</link>
+		<link>
+			<name>species.csv</name>
+			<type>1</type>
+			<location>C:/Selenium Projects/AutoTest/AutoTest/species.csv</location>
+		</link>
+		<link>
+			<name>starships.csv</name>
+			<type>1</type>
+			<location>C:/Selenium Projects/AutoTest/AutoTest/starships.csv</location>
+		</link>
+		<link>
+			<name>test-output</name>
+			<type>2</type>
+			<location>C:/Selenium Projects/AutoTest/AutoTest/test-output</location>
+		</link>
+		<link>
+			<name>vehicles.csv</name>
+			<type>1</type>
+			<location>C:/Selenium Projects/AutoTest/AutoTest/vehicles.csv</location>
+		</link>
+	</linkedResources>
+</projectDescription>
