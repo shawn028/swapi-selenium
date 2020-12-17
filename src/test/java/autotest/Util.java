@@ -20,8 +20,9 @@ import java.util.Iterator;
 import java.util.List;
 
 public class Util {
-	
+	//************************************** Read test data from .csv file ****************************//
 	//Read data from people.csv
+	
     public static Iterator<Object[]> readPeopleTestCase() throws IOException {
     	Log.info("Util.java - Start reading people.csv");
         Reporter.log("Util.java - Reading people.csv");
@@ -145,7 +146,7 @@ public class Util {
         Log.info("Util.java - Finish reading vehicles.csv");
         return records.iterator();
     }
-    //************************************** Writing to csv file ****************************
+    //*************************** Writing test data and test result to .csv file ****************************//
     // Not only write the the result, but re-write the whole row in case new columns added in the .csv file.
     
   //write result to people.csv

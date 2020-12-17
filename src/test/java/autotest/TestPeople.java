@@ -42,7 +42,6 @@ public class TestPeople {
     }
 
     //This test method declares that its data should be supplied by the Data Provider
-//named "test1"
     @Test(dataProvider = "people")
     public void testPeople(String search, Person person) {
     	WebElement searchInput = SearchPage.searchInput(driver);
@@ -95,15 +94,15 @@ public class TestPeople {
     @AfterMethod
     public void result(ITestResult result){
         // collect test result from search result
-    	Log.info("TestPeople.java - collect test result,start comparison.");
-    	Reporter.log("TestPeople.java - Start compare results.");
+    	Log.info("TestPeople.java - Building test result.");
+    	Reporter.log("TestPeople.java - Start building results.");
         int status = result.getStatus();
         Object[] parameters = result.getParameters();
         String search = (String) parameters[0];
         Person person= (Person) parameters[1];
         this.result.add(status == ITestResult.SUCCESS ? new PeopleTestResult(search, person, "pass") : new PeopleTestResult(search, person, "fail"));
-        Reporter.log("TestPeople.java - test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
-        Log.info("TestPeople.java - Comparison ends,test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Reporter.log("TestPeople.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Log.info("TestPeople.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
     }
 
     @AfterClass
@@ -145,7 +144,7 @@ public class TestPeople {
         }
     }
 
-    @org.testng.annotations.BeforeClass
+    @BeforeClass
     public void BeforeClass(){
         DOMConfigurator.configure("log4j.xml");
     }

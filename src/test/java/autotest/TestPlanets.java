@@ -101,15 +101,15 @@ public class TestPlanets {
     @AfterMethod
     public void result(ITestResult result) {
         // collect test result
-    	Log.info("TestPlanets.java - collect test result,start comparison.");
-    	Reporter.log("TestPlanets.java - Start compare results.");
+    	Log.info("TestPlanets.java - Building test result.");
+    	Reporter.log("TestPlanets.java - Start building test result.");
         int status = result.getStatus();
         Object[] parameters = result.getParameters();
         String search = (String) parameters[0];
         Planet planet = (Planet) parameters[1];
         this.result.add(status == ITestResult.SUCCESS ? new PlanetsTestResult(search, planet, "pass") : new PlanetsTestResult(search, planet, "fail"));
         Reporter.log("TestPlanets.java - test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
-        Log.info("TestPlanets.java - Comparison ends,test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Log.info("TestPlanets.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
     }
 
     @AfterClass

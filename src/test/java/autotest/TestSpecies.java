@@ -104,15 +104,15 @@ public class TestSpecies {
     @AfterMethod
     public void result(ITestResult result) {
         // collect test result
-    	Log.info("TestSpecies.java - collect test result,start comparison.");
-    	Reporter.log("TestSpecies.java - Start compare results.");
+    	Log.info("TestSpecies.java - Building test result.");
+    	Reporter.log("TestSpecies.java - Building test result.");
         int status = result.getStatus();
         Object[] parameters = result.getParameters();
         String search = (String) parameters[0];
         Specie specie = (Specie) parameters[1];
         this.result.add(status == ITestResult.SUCCESS ? new SpeciesTestResult(search, specie, "pass") : new SpeciesTestResult(search, specie, "fail"));
         Reporter.log("TestSpecies.java - test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
-        Log.info("TestSpecies.java - Comparison ends,test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Log.info("TestSpecies.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
     }
     
     @AfterClass

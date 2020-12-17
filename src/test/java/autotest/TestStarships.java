@@ -105,15 +105,15 @@ public class TestStarships {
     @AfterMethod
     public void result(ITestResult result) {
         // collect test result
-    	Log.info("TestStarships.java - collect test result,start comparison.");
-    	Reporter.log("TestStarships.java - Start compare results.");
+    	Log.info("TestStarships.java - Building test result.");
+    	Reporter.log("TestStarships.java - Building test result.");
         int status = result.getStatus();
         Object[] parameters = result.getParameters();
         String search = (String) parameters[0];
         Starship starship = (Starship) parameters[1];
         this.result.add(status == ITestResult.SUCCESS ? new StarshipsTestResult(search, starship, "pass") : new StarshipsTestResult(search, starship, "fail"));
         Reporter.log("TestStarships.java - test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
-        Log.info("TestStarships.java - Comparison ends,test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Log.info("TestStarships.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
     }
     
     @AfterClass

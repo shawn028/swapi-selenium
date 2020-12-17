@@ -591,3 +591,250 @@
 [13:57:07:189] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
 [13:57:07:231] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - collect test result,start comparison.
 [14:18:01:406] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Comparison ends,test people/4/ pass.
+[22:14:32:957] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - TestPeople.java - open https://swapi.dev/
+[22:14:32:971] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start reading people.csv
+[22:14:32:986] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish reading people.csv
+[22:14:33:119] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:14:33:209] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/1/
+[22:14:33:266] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:14:35:283] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:14:35:344] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:14:35:346] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:14:35:347] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:14:35:347] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:14:35:348] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:14:35:348] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:14:35:349] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:14:35:349] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:14:35:350] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:14:35:356] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:14:35:357] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/1/ pass.
+[22:14:35:445] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:14:35:524] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/2/
+[22:14:35:579] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:14:37:590] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:14:37:591] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:14:37:591] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:14:37:592] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:14:37:592] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:14:37:592] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:14:37:592] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:14:37:593] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:14:37:593] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:14:37:593] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:14:37:596] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:14:37:596] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/2/ pass.
+[22:14:37:682] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:14:37:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/3/
+[22:14:37:827] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:14:39:842] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:14:39:843] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:14:39:843] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:14:39:843] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:14:39:843] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:14:39:843] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:14:39:844] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:14:39:844] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:14:39:844] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:14:39:844] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:14:39:846] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:14:39:846] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/3/ pass.
+[22:14:39:935] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:14:40:037] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/4/
+[22:14:40:096] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:14:42:107] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:14:42:107] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:14:42:108] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:14:42:108] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:14:42:108] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:14:42:108] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:14:42:109] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:14:42:109] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:14:42:109] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:14:42:110] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:14:42:111] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:14:42:112] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/4/ pass.
+[22:14:42:113] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start writing people.csv
+[22:14:42:123] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish writing people.csv
+[22:14:42:471] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - close browser
+[22:16:39:784] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - TestPeople.java - open https://swapi.dev/
+[22:16:39:795] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start reading people.csv
+[22:16:39:816] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish reading people.csv
+[22:16:40:033] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:16:40:149] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/1/
+[22:16:40:271] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:16:42:287] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:16:42:331] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:16:42:333] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:16:42:333] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:16:42:334] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:16:42:334] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:16:42:334] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:16:42:334] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:16:42:335] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:16:42:336] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:16:42:339] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:16:42:340] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/1/ pass.
+[22:16:42:416] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:16:42:475] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/2/
+[22:16:42:575] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:16:44:583] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:16:44:584] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:16:44:585] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:16:44:585] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:16:44:585] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:16:44:585] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:16:44:586] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:16:44:586] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:16:44:586] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:16:44:591] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:16:44:591] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/2/ fail.
+[22:16:44:665] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:16:44:728] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/3/
+[22:16:44:763] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:16:46:776] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:16:46:777] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:16:46:777] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:16:46:777] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:16:46:778] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:16:46:779] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:16:46:779] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/3/ pass.
+[22:16:46:854] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:16:46:906] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/4/
+[22:16:46:941] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:16:48:948] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:16:48:949] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:16:48:950] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:16:48:951] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/4/ pass.
+[22:16:48:952] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start writing people.csv
+[22:16:48:964] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish writing people.csv
+[22:16:49:080] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - close browser
+[22:32:45:415] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - TestPlanets.java - open https://swapi.dev/
+[22:32:45:433] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start reading planets.csv
+[22:32:45:451] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish reading planets.csv
+[22:32:45:614] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - clear searchInput area.
+[22:32:45:695] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - input planets/1/
+[22:32:45:758] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - click request button
+[22:32:47:776] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - get text from response body.
+[22:32:47:820] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert name
+[22:32:47:820] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert rotation_period
+[22:32:47:820] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert orbital_period
+[22:32:47:820] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert diameter
+[22:32:47:821] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert climate
+[22:32:47:821] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert gravity
+[22:32:47:821] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert terrain
+[22:32:47:821] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert surface_water
+[22:32:47:821] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert population
+[22:32:47:824] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Building test result.
+[22:32:47:824] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Test planets/1/ pass.
+[22:32:47:881] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - clear searchInput area.
+[22:32:47:932] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - input planets/2/
+[22:32:47:975] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - click request button
+[22:32:49:986] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - get text from response body.
+[22:32:49:987] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert name
+[22:32:49:987] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert rotation_period
+[22:32:49:987] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert orbital_period
+[22:32:49:987] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert diameter
+[22:32:49:987] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert climate
+[22:32:49:988] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert gravity
+[22:32:49:988] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert terrain
+[22:32:49:988] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert surface_water
+[22:32:49:988] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert population
+[22:32:49:990] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Building test result.
+[22:32:49:991] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Test planets/2/ pass.
+[22:32:50:053] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - clear searchInput area.
+[22:32:50:118] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - input planets/3/
+[22:32:50:159] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - click request button
+[22:32:52:170] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - get text from response body.
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert name
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert rotation_period
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert orbital_period
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert diameter
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert climate
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert gravity
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert terrain
+[22:32:52:171] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert surface_water
+[22:32:52:172] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - assert population
+[22:32:52:173] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Building test result.
+[22:32:52:173] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - Test planets/3/ pass.
+[22:32:52:364] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start writing planets.csv
+[22:32:52:379] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish writing planets.csv
+[22:32:52:380] [INFO] - commons.Log.info(Log.java:21) - TestPlanets.java - close browser
+[22:36:00:680] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - TestPeople.java - open https://swapi.dev/
+[22:36:00:720] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start reading people.csv
+[22:36:08:043] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish reading people.csv
+[22:37:33:973] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:37:34:177] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/1/
+[22:37:34:293] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:37:36:443] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:38:49:319] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:38:50:146] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:38:50:858] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:38:51:544] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:38:52:182] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:38:52:829] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:38:53:382] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:38:53:953] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:38:54:620] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:39:21:790] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:39:22:376] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/1/ pass.
+[22:39:46:397] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:39:46:529] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/2/
+[22:39:46:625] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:39:48:751] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:39:53:862] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:39:53:867] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:39:53:871] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:39:53:875] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:39:53:879] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:39:53:883] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:39:53:887] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:39:53:891] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:40:45:645] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:40:58:028] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/2/ fail.
+[22:41:18:823] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:41:18:962] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/3/
+[22:41:19:067] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:41:21:190] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:41:27:395] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:41:27:399] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:41:27:404] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:41:27:408] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:41:27:412] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:41:27:416] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:41:27:420] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:41:27:425] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:41:27:429] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:41:36:252] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:41:45:260] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/3/ pass.
+[22:41:52:611] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - clear searchInput area.
+[22:41:52:664] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - input people/4/
+[22:41:52:703] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - click request button
+[22:41:54:729] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - get text from response body.
+[22:42:01:923] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Assertion starts.
+[22:42:01:924] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert name
+[22:42:01:925] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert height
+[22:42:01:927] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert mass
+[22:42:01:929] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert hair_color
+[22:42:01:930] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert skin_color
+[22:42:01:930] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert eye_color
+[22:42:01:931] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert birth_year
+[22:42:01:932] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - assert gender
+[22:42:03:929] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Building test result.
+[22:42:06:654] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - Test people/4/ pass.
+[22:42:09:028] [INFO] - commons.Log.info(Log.java:21) - Util.java - Start writing people.csv
+[22:42:09:042] [INFO] - commons.Log.info(Log.java:21) - Util.java - Finish writing people.csv
+[22:42:09:535] [INFO] - commons.Log.info(Log.java:21) - TestPeople.java - close browser

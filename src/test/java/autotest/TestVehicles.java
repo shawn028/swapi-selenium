@@ -106,15 +106,15 @@ public class TestVehicles {
     @AfterMethod
     public void result(ITestResult result) {
         // collect test result
-    	Log.info("TestVehicles.java - collect test result,start comparison.");
-    	Reporter.log("TestVehicles.java - Start compare results.");
+    	Log.info("TestVehicles.java - Building test result.");
+    	Reporter.log("TestVehicles.java - Building test result.");
         int status = result.getStatus();
         Object[] parameters = result.getParameters();
         String search = (String) parameters[0];
         Vehicle vehicle = (Vehicle) parameters[1];
         this.result.add(status == ITestResult.SUCCESS ? new VehiclesTestResult(search, vehicle, "pass") : new VehiclesTestResult(search, vehicle, "fail"));
         Reporter.log("TestVehicles.java - test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
-        Log.info("TestVehicles.java - Comparison ends,test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
+        Log.info("TestVehicles.java - Test "+search+(status == ITestResult.SUCCESS?" pass.":" fail."));
     }
 
     @AfterClass
