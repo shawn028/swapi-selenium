@@ -122,6 +122,7 @@ public class TestStarships {
         try {
             Util.writeStarshipsTestRes(this.result);
         } catch (IOException e) {
+        	Log.error("TestStarships.java - Error occurred while write result to csv file.");
             e.printStackTrace();
         }
         Reporter.log("TestStarships.java - close browser.");

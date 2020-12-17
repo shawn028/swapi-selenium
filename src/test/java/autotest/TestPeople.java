@@ -70,6 +70,8 @@ public class TestPeople {
         Gson g = gb.create();
         // parse JSON to map
         Map<String, String> map = g.fromJson(text, new TypeToken<Map<String, Object>>() {}.getType());
+        //Start compare .csv data(person) and response data(map).
+        Log.info("TestPeople.java - Assertion starts.");
         Assert.assertEquals(person.getName(), map.get("name"));
         Log.info("TestPeople.java - assert name");
         Assert.assertEquals(person.getHeight(), map.get("height"));
@@ -92,7 +94,7 @@ public class TestPeople {
 
     @AfterMethod
     public void result(ITestResult result){
-        // collect test result
+        // collect test result from search result
     	Log.info("TestPeople.java - collect test result,start comparison.");
     	Reporter.log("TestPeople.java - Start compare results.");
         int status = result.getStatus();
@@ -106,11 +108,11 @@ public class TestPeople {
 
     @AfterClass
     public void writeRes(){
-        // write test res
+        // write test result, the result contains all endpoint properties and the pass or fail.
         try {
             Util.writePeopleTestRes(this.result);
         } catch (IOException e) {
-        	Log.info("TestPeople.java - Error occurred while write result to csv file.");
+        	Log.error("TestPeople.java - Error occurred while write result to csv file.");
             e.printStackTrace();
         }
         driver.close();

@@ -118,6 +118,7 @@ public class TestPlanets {
         try {
             Util.writePlanetsTestRes(this.result);
         } catch (IOException e) {
+        	Log.error("TestPlanets.java - Error occurred while write result to csv file.");
             e.printStackTrace();
         }
         Reporter.log("TestPlanets.java - close browser.");

@@ -121,6 +121,7 @@ public class TestSpecies {
         try {
             Util.writeSpeciesTestRes(this.result);
         } catch (IOException e) {
+        	Log.error("TestSpecies.java - Error occurred while write result to csv file.");
             e.printStackTrace();
         }
         Reporter.log("TestSpecies.java - close browser.");

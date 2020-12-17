@@ -123,6 +123,7 @@ public class TestVehicles {
         try {
             Util.writeVehiclesTestRes(this.result);
         } catch (IOException e) {
+        	Log.error("TestVehicles.java - Error occurred while write result to csv file.");
             e.printStackTrace();
         }
         Reporter.log("TestVehicles.java - close browser.");
