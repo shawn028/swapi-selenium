@@ -186,7 +186,7 @@ public class Util {
     	Log.info("Util.java - Start writing starships.csv");
         Reporter.log("Util.java - writing starships.csv");
         CSVPrinter printer = new CSVPrinter(new FileWriter("starships.csv"), CSVFormat.DEFAULT);
-        printer.printRecord("search","name","model","manufacturer","cost_in_credits","length","max_atmosphering_speed","crew","passengers","cargo_capacity","hyperdrive_rating","pass/fail"
+        printer.printRecord("search","name","model","manufacturer","cost_in_credits","length","max_atmosphering_speed","crew","passengers","cargo_capacity","pass/fail"
         );
         for (TestStarships.StarshipsTestResult result : results) {
             String search = result.getSearch();

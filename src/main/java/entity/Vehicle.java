@@ -154,5 +154,18 @@ public class Vehicle {
         }
     }
     
-    
+    public String toString() {
+        return "Vehicle{" +
+                "name='" + name + '\'' +
+                ", model='" + model + '\'' +
+                ", manufacturer='" + manufacturer + '\'' +
+                ", cost_in_credits='" + cost_in_credits + '\'' +
+                ", max_atmosphering_speed='" + max_atmosphering_speed + '\'' +
+                ", crew='" + crew + '\'' +
+                ", passengers='" + passengers + '\'' +
+                ", cargo_capacity='" + cargo_capacity + '\'' +
+                ", consumables='" + consumables + '\'' +
+                ", vehicle_class='" + vehicle_class + '\'' +
+                '}';
+    }
 }
