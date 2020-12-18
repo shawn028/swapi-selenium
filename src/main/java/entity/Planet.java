@@ -11,6 +11,7 @@ public class Planet {
     private String terrain;
     private String surface_water;
     private String population;
+    
     public void setName(String name) {
         this.name = name;
     }
